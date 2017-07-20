@@ -1,0 +1,30 @@
+body{
+  background: honeydew;
+  font-family: 'Garamond', sans-serif;
+  font-size:25px;
+
+}
+
+#result{
+  font-size:35px;
+
+}
+
+.well{
+	margin-top: 20px; 
+}
+
+h1{
+	font-family: 'Garamond', cursive;
+	font-size:55px;
+}
+
+h2{
+	font-family: 'Garamond', cursive;
+	
+}
+
+button{
+
+	margin-top: 20px; 
+}
